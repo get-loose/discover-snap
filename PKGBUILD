@@ -1,6 +1,6 @@
-# Maintainer: LechTheMitch <ogamal523 at gmail dot com>
-# Contributor: tristanrw <N/A>
-# Contributor: RTRT <nobody>
+# Maintainer: LechTheMitch <hidden>
+# Contributor: tristanrw <hidden>
+# Contributor: RTRT <hidden>
 # Contributor: Blutkoete <tobias dot borgert at gmail dot com>
 # Contributor: 1Conan <me at 1conan dot com>
 # Contributor: Mitchell Renouf <mitchellarenouf at gmail dot com> 
